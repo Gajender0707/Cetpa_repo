@@ -146,6 +146,8 @@ group by 1,team_group
 order by city;
 
 
+select * from polls;
+select * from poll_answers;
 
 
 
